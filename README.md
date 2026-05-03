@@ -1,2 +1,2 @@
 # Why-MLLMs-Struggle-to-Determine-Object-Orientations
-CVPR 2026 Submission
+Accepted to CVPR Findings (Main Track) 2026
