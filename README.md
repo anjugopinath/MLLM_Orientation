@@ -1,5 +1,6 @@
 # Why-MLLMs-Struggle-to-Determine-Object-Orientations
 Accepted to CVPR Findings (Main Track) 2026
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLAGKL8AAAAJ&citation_for_view=SLAGKL8AAAAJ:9yKSN-GCB0IC
 
 Please cite Si-Score if you use dataset or code for in-place rotated images:
 
